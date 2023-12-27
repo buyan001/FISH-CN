@@ -58,18 +58,14 @@ description: TON 生态下第一个带有社交属性的meme代币
 [fa-zhan-lu-xian-tu.md](gai-shu/fa-zhan-lu-xian-tu.md)
 {% endcontent-ref %}
 
+{% content-ref url="use-cases/guan-fang-lian-jie.md" %}
+[guan-fang-lian-jie.md](use-cases/guan-fang-lian-jie.md)
+{% endcontent-ref %}
+
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful guides for you to enjoy our product quickly and easily.
 
 {% content-ref url="fundamentals/can-yu-yu-shou.md" %}
 [can-yu-yu-shou.md](fundamentals/can-yu-yu-shou.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
