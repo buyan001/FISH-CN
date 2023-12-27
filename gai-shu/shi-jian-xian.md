@@ -35,7 +35,12 @@ description: 没有全程参与还是有点可惜，只能根据社区建设者�
 
     <figure><img src="../.gitbook/assets/Snipaste_2023-12-28_04-24-12.png" alt=""><figcaption></figcaption></figure>
 * **2024.01.07**  🐟点我跳转🐟\
-  Fair Launch 后一周内，会进行空投的发放，空投参考因素比较多，你可以通过Fish Bot生成邀请链接
+  Fair Launch 后一周内，会有空投！\
+  你可以通过以下操作获取更多空投份额：\
+  1\. 你可以通过🐟[Fish Bot](https://t.me/Tonsifisifhbot?start=6638485211)🐟生成自己邀请链接，邀请的越多，你获得的空投越多；\
+  2\. 空投会发送给有NFT FISH BOX的持有者，这意味着你手里的BOX越多，空投份额也会越大；\
+  3.曾经社区创始人推特提到过，BOX中可能也会有$FISH。毕竟暂时谁都不知道BOX中有什么！🐟\
+
 
 
 
