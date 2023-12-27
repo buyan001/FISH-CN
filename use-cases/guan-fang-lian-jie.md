@@ -1,3 +1,3 @@
 # 📶 官方链接
 
-<table><thead><tr><th width="190">官网</th><th>链接</th></tr></thead><tbody><tr><td>NFT BOXES MINT</td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="222">官网</th><th>链接</th></tr></thead><tbody><tr><td>电报 (Telegram)</td><td><a href="https://t.me/tonfish_en">https://t.me/tonfish_en</a></td></tr><tr><td>NFT BOXES MINT</td><td><a href="https://tonfishbox.com">https://tonfishbox.com</a></td></tr><tr><td>TON FISH BOX 市场</td><td><a href="https://getgems.io/collection/EQAGVA6W54JOlp2Y2-_O6mgjJoMSrKYPxej8qlYqPSjFwmKn">https://getgems.io/collection/EQAGVA6W54JOlp2Y2-_O6mgjJoMSrKYPxej8qlYqPSjFwmKn</a></td></tr><tr><td>BOX NFT 铸造进度查询</td><td><a href="https://tonviewer.com/EQAGVA6W54JOlp2Y2-_O6mgjJoMSrKYPxej8qlYqPSjFwmKn">https://tonviewer.com/EQAGVA6W54JOlp2Y2-_O6mgjJoMSrKYPxej8qlYqPSjFwmKn</a></td></tr></tbody></table>
