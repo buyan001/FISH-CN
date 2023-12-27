@@ -48,7 +48,7 @@ description: TON 生态下第一个带有社交属性的meme代币
 
     <figure><img src=".gitbook/assets/SaveTwitter.Net_GAHWSgCa4AAHEqT_gif_ (1).gif" alt="" width="250"><figcaption></figcaption></figure>
 
-## Quick links
+## 快速跳转 <a href="#quick-url" id="quick-url"></a>
 
 {% content-ref url="gai-shu/shi-jian-xian.md" %}
 [shi-jian-xian.md](gai-shu/shi-jian-xian.md)
@@ -62,7 +62,7 @@ description: TON 生态下第一个带有社交属性的meme代币
 [guan-fang-lian-jie.md](use-cases/guan-fang-lian-jie.md)
 {% endcontent-ref %}
 
-## Get Started
+## 参与教程 <a href="#take" id="take"></a>
 
 We've put together some helpful guides for you to enjoy our product quickly and easily.
 
