@@ -1,4 +1,10 @@
+---
+description: 临时教程在TG中文频道中（欢迎加入交流）：🐟https://t.me/tonfish_en/23194/30810🐟
+---
+
 # 🛠 参与预售
+
+
 
 <details>
 
