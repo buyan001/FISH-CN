@@ -10,7 +10,7 @@
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [📎 理解项目组成](product-guides/li-jie-xiang-mu-zu-cheng.md)
 
 ## Fundamentals
 
