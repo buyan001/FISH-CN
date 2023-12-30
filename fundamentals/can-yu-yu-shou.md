@@ -1,5 +1,5 @@
 ---
-description: 临时教程在TG中文频道中（欢迎加入交流）：🐟https://t.me/tonfish_en/23194/30810🐟
+description: 临时教程在TG中文频道中（欢迎加入交流）：🐟 点我跳转🐟
 ---
 
 # 🛠 参与预售
@@ -8,7 +8,7 @@ description: 临时教程在TG中文频道中（欢迎加入交流）：🐟http
 
 <details>
 
-<summary>Step1: </summary>
+<summary>Step1: 临时教程在TG中文频道中（欢迎加入交流）：🐟 <a href="https://t.me/tonfish_en/23194/30810">点我跳转</a>🐟</summary>
 
 
 
