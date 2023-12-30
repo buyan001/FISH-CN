@@ -70,6 +70,10 @@ Deleted Ghost Club 是顶级 999 TON FISH BOX NFT 升级级别的 PFP 合集，�
 * Fair Launch中排名前300，每个地址将会获得一个；
 * 根据已有信息，剩余NFT将会通过TON FISH BOX升级系统获取。
 {% endtab %}
+
+{% tab title="HOW TO PLAY" %}
+### Coming soon......
+{% endtab %}
 {% endtabs %}
 
 
