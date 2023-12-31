@@ -20,7 +20,7 @@
 
 <details>
 
-<summary>Step 3: 在DEX中购买 $FISH 🐟代币</summary>
+<summary>Step 3: 在DEX中购买 $FISH 🐟代币（使用手机在Dedust中购买）</summary>
 
 <img src="../.gitbook/assets/de购买教程.png" alt="" data-size="original">
 
