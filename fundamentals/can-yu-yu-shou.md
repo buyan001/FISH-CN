@@ -24,6 +24,8 @@
 
 <img src="../.gitbook/assets/de购买教程.png" alt="" data-size="original">
 
+代币合约地址：EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
+
 </details>
 
 <details>
