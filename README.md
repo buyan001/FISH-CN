@@ -66,6 +66,6 @@ description: TON 生态下第一个带有社交属性的meme代币
 
 We've put together some helpful guides for you to enjoy our product quickly and easily.
 
-{% content-ref url="fundamentals/na-li-neng-gou-mai-dao-ni.md" %}
-[na-li-neng-gou-mai-dao-ni.md](fundamentals/na-li-neng-gou-mai-dao-ni.md)
+{% content-ref url="fundamentals/can-yu-yu-shou.md" %}
+[can-yu-yu-shou.md](fundamentals/can-yu-yu-shou.md)
 {% endcontent-ref %}

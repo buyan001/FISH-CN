@@ -31,7 +31,7 @@ description: 没有全程参与还是有点可惜，只能根据社区建设者�
 * **2023.12.15**   🐟[点我跳转](https://x.com/tonfish\_tg/status/1733043067513667625?s=20)🐟\
   mint开始，根据白名单性质，一共分为三批，每一批都有24小时的时间去铸造。铸造进度比较慢，两分钟生成一个，最大时间会持续13天左右。
 *   **2023.12.16 -** **2023.12.31**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1735905435671253488?s=20)🐟\
-    按照路线图，提出Fair Launch具体的时间、以及参与的操作等；通过投资TON获取份额，在31号会根据份额，分发$FISH代币。贡献的前300名者，将会获得幽灵系列DGC PFP NFT🐟点我🐟（是社区中第一个动态NFT）。如何参与Fair Launch？🐟[点我](../fundamentals/na-li-neng-gou-mai-dao-ni.md)🐟&#x20;
+    按照路线图，提出Fair Launch具体的时间、以及参与的操作等；通过投资TON获取份额，在31号会根据份额，分发$FISH代币。贡献的前300名者，将会获得幽灵系列DGC PFP NFT🐟点我🐟（是社区中第一个动态NFT）。如何参与Fair Launch？🐟[点我](../fundamentals/can-yu-yu-shou.md)🐟&#x20;
 
     <figure><img src="../.gitbook/assets/Snipaste_2023-12-28_04-24-12.png" alt=""><figcaption></figcaption></figure>
 * **2024.01.07**  🐟点我跳转🐟\

@@ -14,7 +14,7 @@
 
 ## Fundamentals
 
-* [💸 哪里能够买到呢？](fundamentals/na-li-neng-gou-mai-dao-ni.md)
+* [💸 哪里能够买到呢？](fundamentals/can-yu-yu-shou.md)
 
 ## Use Cases
 
