@@ -14,7 +14,7 @@
 
 <details>
 
-<summary>Step 2: </summary>
+<summary>Step 2: 参与空投（持有NFT FISH BOX 以及使用邀请链接累计积分）</summary>
 
 
 
@@ -24,15 +24,17 @@
 
 <summary>Step 3: 在DEX中购买 $FISH 🐟代币（使用手机在Dedust中购买）</summary>
 
-<img src="../.gitbook/assets/de购买教程.png" alt="" data-size="original">
-
 代币合约地址：EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
+
+
+
+
 
 </details>
 
 <details>
 
-<summary>Step 4: </summary>
+<summary>Step 4: unknown</summary>
 
 
 
