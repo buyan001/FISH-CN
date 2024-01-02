@@ -32,7 +32,7 @@ TON 生态下的Meme代币，$FISH 是一个受$PEPE启发的表情包。它旨�
 
 </div>
 
-### TON ROCK
+### 一、TON ROCK
 
 参考BTC以及ETH NFT生态中的石头诞生的岩石系列NFT，总供应量100，目前分布在$FISH生态的OG手中。与$FISH后续的发展计划关系并不多，相比较而言，它更像是一个见证者！
 
@@ -44,7 +44,7 @@ TON 生态下的Meme代币，$FISH 是一个受$PEPE启发的表情包。它旨�
 
 </div>
 
-### TON FISH BOX  [_🐟🐟🐟_](https://getgems.io/collection/EQAGVA6W54JOlp2Y2-\_O6mgjJoMSrKYPxej8qlYqPSjFwmKn)
+### 二、TON FISH BOX  [_🐟🐟🐟_](https://getgems.io/collection/EQAGVA6W54JOlp2Y2-\_O6mgjJoMSrKYPxej8qlYqPSjFwmKn)
 
 TON FISH生态中的第一的NFT合集，总供应量为9999，2023年12月31日全部铸造完成。
 
@@ -60,7 +60,7 @@ TON FISH生态中的第一的NFT合集，总供应量为9999，2023年12月31日
 
 ![](../.gitbook/assets/photo\_2023-12-28\_12-06-23.gif)
 
-### TON DGC PFP
+### 三、TON DGC PFP
 
 Deleted Ghost Club 是顶级 999 TON FISH BOX NFT 升级级别的 PFP 合集，灵感来源Telegram中已销号用户的头像，供应量为999。这是 TON FISH 系列中最稀有的，并且是仅向早期生态系统贡献者提供的特殊 PFP NFT。
 

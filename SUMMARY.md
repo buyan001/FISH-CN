@@ -10,14 +10,14 @@
 ## Product Guides
 
 * [📪 Making a post](product-guides/making-a-post.md)
-* [📎 理解项目组成](product-guides/li-jie-xiang-mu-zu-cheng.md)
+* [📎 理解项目组成](product-guides/organizational-structure.md)
 
 ## Fundamentals
 
-* [💸 哪里能够买到呢？](fundamentals/can-yu-yu-shou.md)
+* [💸 哪里能够买到呢？](fundamentals/buy.md)
 
 ## Use Cases
 
-* [📶 官方链接](use-cases/guan-fang-lian-jie.md)
+* [📶 官方链接](use-cases/offical-link.md)
 * [🎨 For Designers](use-cases/for-designers.md)
 * [🖥 For Developers](use-cases/for-developers.md)

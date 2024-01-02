@@ -58,14 +58,14 @@ description: TON 生态下第一个带有社交属性的meme代币
 [roadmap.md](overview/roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases/guan-fang-lian-jie.md" %}
-[guan-fang-lian-jie.md](use-cases/guan-fang-lian-jie.md)
+{% content-ref url="use-cases/offical-link.md" %}
+[offical-link.md](use-cases/offical-link.md)
 {% endcontent-ref %}
 
 ## 参与教程 <a href="#take" id="take"></a>
 
 We've put together some helpful guides for you to enjoy our product quickly and easily.
 
-{% content-ref url="fundamentals/can-yu-yu-shou.md" %}
-[can-yu-yu-shou.md](fundamentals/can-yu-yu-shou.md)
+{% content-ref url="fundamentals/buy.md" %}
+[buy.md](fundamentals/buy.md)
 {% endcontent-ref %}
