@@ -26,7 +26,7 @@
 
 代币合约地址：EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
 
-
+<img src="../.gitbook/assets/Snipaste_2024-01-03_00-32-38.png" alt="" data-size="original">
 
 
 
