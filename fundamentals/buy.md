@@ -22,7 +22,7 @@
 
 <details>
 
-<summary>Step 3: 在DEX中购买 $FISH 🐟代币（使用手机Ton Keeper在Dedust中购买）</summary>
+<summary>Step 3: 在DEX中购买 $FISH 🐟代币（使用APP TonKeeper在Dedust中购买）</summary>
 
 代币合约地址：EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK
 
