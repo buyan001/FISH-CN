@@ -11,10 +11,7 @@
 
 * [📪 Making a post](product-guides/making-a-post.md)
 * [📎 理解项目组成](product-guides/organizational-structure.md)
-
-## Fundamentals
-
-* [💸 哪里能够买到呢？](fundamentals/buy.md)
+* [💸 哪里能够买到呢？](product-guides/buy.md)
 
 ## Use Cases
 
