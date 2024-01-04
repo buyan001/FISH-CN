@@ -18,8 +18,11 @@
 
 ***
 
-| 链上查询                  | 链接                                                                                                                                                                                     |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Tonviewer（TON链浏览器）    | [https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK)                                       |
-| Redoubt（TVM 信息汇总）     | [https://beta.redoubt.online/feed/jettons/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://beta.redoubt.online/feed/jettons/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK) |
-| DYOR Ninja （Chart 图表） | [https://dyor.io/token/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://dyor.io/token/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK)                                       |
+| 链上查询                                              | 链接                                                                                                                                                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Tonviewer（TON链浏览器）                                | [https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://tonviewer.com/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK)                                           |
+| Redoubt（TVM 信息汇总）                                 | [https://beta.redoubt.online/feed/jettons/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://beta.redoubt.online/feed/jettons/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK)     |
+| <p>DYOR Ninja （Chart 图表）<br>这个只能看Dedust.io的</p>   | [https://dyor.io/token/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK](https://dyor.io/token/EQATcUc69sGSCCMSadsVUKdGwM1BMKS-HKCWGPk60xZGgwsK)                                           |
+| <p>Geckoterminal （chart 图表） <br>这个只能看STON.io的</p> | [https://www.geckoterminal.com/zh/ton/pools/EQCVflRjTn91FKGZzy2UTHgLn3hG3TsOlQIsAOPcB57K5gT5](https://www.geckoterminal.com/zh/ton/pools/EQCVflRjTn91FKGZzy2UTHgLn3hG3TsOlQIsAOPcB57K5gT5) |
+
+最后两个凑一起，才能当个正常看板工具用😀，可以看谁在出货、谁在托盘；
