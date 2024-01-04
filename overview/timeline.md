@@ -1,5 +1,5 @@
 ---
-description: 没有全程参与还是有点可惜，只能根据社区建设者推特去整理进程
+description: 没有全程参与还是有点可惜，只能根据社区建设者推特去整理进程，时间线以（UTC+8）为标准记录。
 ---
 
 # ⏰ 时间线
@@ -34,13 +34,21 @@ description: 没有全程参与还是有点可惜，只能根据社区建设者�
     按照路线图，提出Fair Launch具体的时间、以及参与的操作等；通过投资TON获取份额，在31号会根据份额，分发$FISH代币。贡献的前300名者，将会获得幽灵系列DGC PFP NFT🐟点我🐟（是社区中第一个动态NFT）。如何参与Fair Launch？🐟[点我](../fundamentals/buy.md)🐟&#x20;
 
     <figure><img src="../.gitbook/assets/Snipaste_2023-12-28_04-24-12.png" alt=""><figcaption></figcaption></figure>
-* **2024.01.07**  🐟点我跳转🐟\
-  Fair Launch 后一周内，会有空投！\
-  你可以通过以下操作获取更多空投份额：\
-  1\. 你可以通过🐟[Fish Bot](https://t.me/Tonsifisifhbot?start=6638485211)🐟生成自己邀请链接，邀请的越多，你获得的空投越多；\
-  2\. 空投会发送给有NFT FISH BOX的持有者，这意味着你手里的BOX越多，空投份额也会越大；\
-  3.曾经社区创始人推特提到过，BOX中可能也会有$FISH。毕竟暂时谁都不知道BOX中有什么！🐟\
+*   **2024.01.01**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1741498382844363034?s=20)🐟\
+    Fair 阶段代币通过空投形式发放、同时在DEX交易所🐟[Dedust](https://dedust.io/swap)🐟上线，STON.fi由于DEV得假期原因，部分问题没有解决，导致没有成功上所，🐟[这是购买教程](../fundamentals/buy.md#step-3-zai-dex-zhong-gou-mai-fish-dai-bi-shi-yong-shou-ji-zai-dedust-zhong-gou-mai)🐟；
 
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+*   **2024.01.02**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1742205713378943448?s=20)🐟\
+    经历一点小小得波折，终于能够在TON最大的DEX中开始交易；
 
-
-
+    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="328"><figcaption></figcaption></figure>
+* **2024.01.03**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1742236513352712611?s=20)🐟\
+  Fair Launch阶段结束、DEX部署完成并成功锁死LP，年限长达一万年；\
+  开始计划分发经济模型中的6%空投部分（5% NFT BOX持有者以及1%邀请机器人注册玩家）；\
+  快照时间为 01.03 （UTC + 8) 20:00.
+* **2024.01.04**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1742236513352712611?s=20)🐟\
+  今天可以领空投了，晚上我领到再记录吧；空投领取地址应该在[tonfish.io](https://www.tonfish.io/)这个。\
+  主要包括三个内容：\
+  1.Fair Launch 阶段的邀请奖励领取；\
+  2.NFT FISH BOX 持有者快照领取；\
+  3.邀请机器人注册快照的领取。\
