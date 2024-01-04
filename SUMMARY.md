@@ -16,5 +16,3 @@
 ## Use Cases
 
 * [📶 官方链接](use-cases/offical-link.md)
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
