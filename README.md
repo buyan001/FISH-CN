@@ -58,8 +58,8 @@ description: TON 生态下第一个带有社交属性的meme代币
 [roadmap.md](overview/roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="use-cases/offical-link.md" %}
-[offical-link.md](use-cases/offical-link.md)
+{% content-ref url="link/offical-link.md" %}
+[offical-link.md](link/offical-link.md)
 {% endcontent-ref %}
 
 ## 参与教程 <a href="#take" id="take"></a>

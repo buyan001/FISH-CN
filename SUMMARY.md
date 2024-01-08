@@ -13,6 +13,6 @@
 * [📎 理解项目组成](product-guides/organizational-structure.md)
 * [💸 哪里能够买到呢？](product-guides/buy.md)
 
-## Use Cases
+## 相关链接 <a href="#link" id="link"></a>
 
-* [📶 官方链接](use-cases/offical-link.md)
+* [📶 官方链接](link/offical-link.md)

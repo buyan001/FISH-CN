@@ -46,9 +46,15 @@ description: 没有全程参与还是有点可惜，只能根据社区建设者�
   Fair Launch阶段结束、DEX部署完成并成功锁死LP，年限长达一万年；\
   开始计划分发经济模型中的6%空投部分（5% NFT BOX持有者以及1%邀请机器人注册玩家）；\
   快照时间为 01.03 （UTC + 8) 20:00.
-* **2024.01.04**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1742236513352712611?s=20)🐟\
-  今天可以领空投了，晚上我领到再记录吧；空投领取地址应该在[tonfish.io](https://www.tonfish.io/)这个。\
+* **2024.01.04**  🐟[点我跳转](https://x.com/tonfish\_tg/status/1742878674867925016?s=20)🐟\
+  今晚八点空投。\
   主要包括三个内容：\
   1.Fair Launch 阶段的邀请奖励领取；\
   2.NFT FISH BOX 持有者快照领取；\
   3.邀请机器人注册快照的领取。\
+  <mark style="background-color:red;">**紧急事件：**</mark>空头期间有黑客偷家，截获了3700 Ton左右的🐟币，并迅速在DEX市场中交易；\
+  [空投中断](https://x.com/tonfish\_tg/status/1742888288057491503?s=20)；[黑客链上记录](https://x.com/tonfish\_tg/status/1742893517285003374?s=20)；[应对措施](https://x.com/tonfish\_tg/status/1742899241415291039?s=20)；\
+  <mark style="background-color:green;">**官方应对：**</mark>在事情发生的一个小时内，官方迅速回购相同份额的🐟币，并紧急联系TonRaffle团队，寻找应对措施。\
+  _备注：让人欣慰的是官方迅速的应对措施和对🐟币市场的保护，采取回购的手段，并永久锁定被盗份额，这份决心和度量还是很少见的；_
+* <mark style="background-color:red;">**2024.01.06**</mark> <mark style="background-color:red;"></mark><mark style="background-color:red;">🐟</mark>[<mark style="background-color:red;">点我跳转</mark>](https://x.com/tonfish\_tg/status/1743614083172327728?s=20)<mark style="background-color:red;">🐟</mark>\ <mark style="background-color:red;">$FISH 上线TG mini web CEX  xRocket！！！！等待起飞。</mark>
+* \
